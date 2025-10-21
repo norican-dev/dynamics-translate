@@ -7,8 +7,9 @@ Auto-translation script for Dynamics 365 forms supporting EN-US, DE (German), an
 Add these script tags to your HTML (in this exact order):
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/mylokaye/dynamics365-translation@main/translations.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/mylokaye/dynamics365-translation@main/translate.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mylo-norican.github.io/dynamics-translate/n/translations.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mylo-norican.github.io/dynamics-translate/n@main/translate.js"></script>
+
 
 <script>
   function initTranslation() {
