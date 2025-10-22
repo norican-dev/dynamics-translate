@@ -111,4 +111,4 @@
   window.updateTranslation = updateTranslation;
   window.createLanguageSwitcher = createLanguageSwitcher;
   window.currentLang = currentLang;
-)();
+  })();
