@@ -10,8 +10,11 @@ Add these script tags to your HTML (in this exact order):
 <script src="https://cdn.jsdelivr.net/gh/norican-dev.github.io/dynamics-translate/translations.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/norican-dev.github.io/dynamics-translate/translate.js"></script>
 ```
-```html
+
+
+
 (Optional)
+```html
 <script>
   function initTranslation() {
     if (typeof translations !== 'undefined' && typeof updateTranslation === 'function') {
